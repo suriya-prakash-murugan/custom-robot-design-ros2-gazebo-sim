@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<robot name="my_robot2" xmlns:xacro="http://www.ros.org/wiki/xacro">
+    
+    <link name="camera_link">
+
+    </link>
+
+</robot>
